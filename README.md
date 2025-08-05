@@ -21,18 +21,18 @@ The backend handles payment creation, authorization, capture, refund, and webhoo
 
 ### Installation and Running
 
-# Clone repo
+1. Clone repo
 ```bash
 git clone https://github.com/AbhinavPamadi/Payment_Gateway_Using_Go.git
 cd Payment_Gateway_Using_Go
 ```
-# Backend
+2. Backend
 ```bash
 cd Go_ProductWebsite_backend
 go run server.go
 ```
 
-# Frontend
+3. Frontend
 ```bash
 cd Go_ProductWebsite_frontend
 npm run dev
